@@ -1,0 +1,4 @@
+certbot_email: dev.bcode@gmail.com
+certbot_hosts:
+    - baa.kg
+    - api.baa.kg
